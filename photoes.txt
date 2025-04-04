@@ -1,0 +1,1 @@
+We are unable to upload images due to their large file size, as the platform only allows uploads up to a maximum of 10MB. You can find the full version on GitHub: https://github.com/ASMmusaffar/Plant-Growth-Monitoring-System
